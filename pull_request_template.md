@@ -1,0 +1,11 @@
+Dear reviewer, please make sure to check the following when reviewing this PR:
+- [ ] PR description: a short explanation of what the PR is about and what it includes.
+- [ ] Proper test coverage.
+- [ ] Logic meets the desired business behavior.
+- [ ] Design: responsibilities and flow are properly modeled and divided between the classes and methods.
+- [ ] Clean code + By Scout Rule: "leave the place cleaner than it was".
+- [ ] Immutability, Immutability, Immutability.
+- [ ] Proper usage of language capabilities.
+- [ ] Performance.
+- [ ] Resiliency: edge cases and exceptions are properly being taken care of.
+- [ ] Education: don't miss the opportunity to teach (and learn) through the code review!
